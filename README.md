@@ -1,11 +1,11 @@
-👋 Hey ! I'm Sébastien 
+### 👋 Hey ! I'm Sébastien 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions \
 🎓 &nbsp;I graduated from ESIEA an engineering school\
 💬 &nbsp;Learning is a treasure you take everywhere\
-✉️ &nbsp;You can shoot me an email at sebastiensotofr@gmail.com ! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at sebastiensotofr@gmail.com ! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
