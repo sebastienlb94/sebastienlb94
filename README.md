@@ -21,12 +21,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/https://github.com/sebastienlb94">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sebastienlb94&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sebastienlb94&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+| <a href="https://github.com/sebastienlb94/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sebastienlb94&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Sebastien's github stats" /></a> | <a href="https://github.com/sebastienlb94/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienlb94&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 ### 🤝🏻 &nbsp;Connect with Me
 
